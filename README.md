@@ -10,7 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-66qk.vercel.app/api?username=rajd33p&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rajd33p&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats-66qk.vercel.app/api/top-langs/?username=rajd33p&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
